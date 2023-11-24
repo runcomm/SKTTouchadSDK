@@ -1,6 +1,6 @@
 Pod::Spec.new do |spec|
   spec.name         = "SKTTouchadSDK"
-  spec.version      = "1.0"
+  spec.version      = "1.1"
   spec.summary      = "A short description of SKTTouchadSDK."
   spec.description  = <<-DESC
 TouchadSDK for SKT
